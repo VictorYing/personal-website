@@ -116,5 +116,5 @@ My work spans microarchitectures, compilers, and applications.
 I seek to redefine the roles of hardware and software,
 not only to make it easy to scale workloads where parallelization
 is expensive and error-prone today,
-but also to make it practical to scale workloads where
+but also to make it practical to scale workloads that
 today's systems cannot scale at all.
