@@ -72,6 +72,21 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=7ZtzjEUAAAAJ"
 
+[[social]]
+  icon = "dblp"
+  icon_pack = "ai"
+  link = "https://dblp.uni-trier.de/pers/hd/y/Ying:Victor_A="
+
+[[social]]
+  icon = "acmdl"
+  icon_pack = "ai"
+  link = "https://dl.acm.org/author_page.cfm?id=99659180875"
+
+[[social]]
+  icon = "ieee"
+  icon_pack = "ai"
+  link = "https://ieeexplore.ieee.org/author/37086319141"
+
 #[[social]]
 #  icon = "github"
 #  icon_pack = "fab"
