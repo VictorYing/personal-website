@@ -91,15 +91,15 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi! I'm a 3rd year S.M./Ph.D. student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
+Hi, I'm Victor. I'm a 3rd year S.M./Ph.D. student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
-My work is primarily on [the Swarm project](https://www.csail.mit.edu/research/pervasive-parallelism-swarm-architecture),
+My primary work is in [the Swarm project](https://www.csail.mit.edu/research/pervasive-parallelism-swarm-architecture),
 which seeks to build new abstractions between hardware and software
 that make it as easy to exploit multicore parallelism
 as it is to write ordinary sequential programs.
 My work spans microarchitectures, compilers, and applications.
-I seeks to redefine the roles of hardware and software,
+I seek to redefine the roles of hardware and software,
 not only to make it easier to scale workloads where parallelization
 is expensive and error-prone today,
 but also to make it practical to scale workloads where
-today's systems do not scale at all.
+today's systems cannot scale at all.
