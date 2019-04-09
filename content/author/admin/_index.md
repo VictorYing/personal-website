@@ -128,4 +128,4 @@ hardware systems at [NVIDIA Research](https://www.nvidia.com/en-us/research/),
 [Pure Storage](https://www.purestorage.com/),
 and [NIST](https://www.nist.gov/publications/tunable-supercontinuum-fiber-laser-source-brdf-measurements-starr-ii-gonioreflectometer).
 
-You can access my *curriculum vitae* [here](http://people.csail.mit.edu/victory/cv.pdf).
+You can access my _curriculum vitae_ [here](http://people.csail.mit.edu/victory/cv.pdf).
