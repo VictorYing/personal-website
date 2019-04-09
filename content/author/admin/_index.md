@@ -91,6 +91,15 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi! I'm a 3rd year S.M./Ph.D. student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
+at [MIT CSAIL](https://www.csail.mit.edu/).
+My work is primarily on [the Swarm project](https://www.csail.mit.edu/research/pervasive-parallelism-swarm-architecture),
+which seeks to build new abstractions between hardware and software
+that make it as easy to exploit multicore parallelism
+as it is to write ordinary sequential programs.
+My work spans microarchitectures, compilers, and applications.
+I seeks to redefine the roles of hardware and software,
+not only to make it easier to scale workloads where parallelization
+is expensive and error-prone today,
+but also to make it practical to scale workloads where
+today's systems do not scale at all.
