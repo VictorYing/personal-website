@@ -118,3 +118,12 @@ not only to make it easy to scale workloads where parallelization
 is expensive and error-prone today,
 but also to make it practical to scale workloads that
 today's systems cannot scale at all.
+
+Before coming to MIT, I received my B.S.E. in electrical engineering
+from [Princeton](https://engineering.princeton.edu/),
+where I worked with [Sharad Malik](http://www.princeton.edu/~sharad/)
+on [Boolean satisfiability solvers](http://www.fields.utoronto.ca/sites/default/files/talk-attachments/SharadMalik-Fields2016.pdf).
+I have also done internships working on the design of
+hardware systems at [NVIDIA Research](https://www.nvidia.com/en-us/research/),
+[Pure Storage](https://www.purestorage.com/),
+and [NIST](https://www.nist.gov/publications/tunable-supercontinuum-fiber-laser-source-brdf-measurements-starr-ii-gonioreflectometer).
