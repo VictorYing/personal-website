@@ -26,8 +26,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Computer Architecture",
-  "Parallel Programming Models",
   "Parallelizing Compilers",
+  "Parallel Programming Models",
   "Programmable Accelerators",
 #  "Distributed Systems",
 ]
