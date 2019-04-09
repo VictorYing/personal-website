@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. student"
+role = "PhD student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -18,7 +18,7 @@ organizations = [
 ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Ph.D. student at MIT CSAIL. Working on hardware and software architectures to efficiently parallelize hard programs."
+bio = "PhD student at MIT CSAIL. Working on hardware and software architectures to efficiently parallelize hard programs."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -106,7 +106,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I'm Victor. I'm a 3rd year S.M./Ph.D. student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
+Hi, I'm Victor. I'm a 3rd year SM/PhD student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
 My primary work is in [the Swarm project](https://www.csail.mit.edu/research/pervasive-parallelism-swarm-architecture),
 which seeks to build new abstractions between hardware and software
@@ -119,7 +119,7 @@ is expensive and error-prone today,
 but also to make it practical to scale workloads that
 today's systems cannot scale at all.
 
-Before coming to MIT, I received my B.S.E. in electrical engineering
+Before coming to MIT, I received my BSE in electrical engineering
 from [Princeton](https://engineering.princeton.edu/),
 where I worked with [Sharad Malik](http://www.princeton.edu/~sharad/)
 on [Boolean satisfiability solvers](http://www.fields.utoronto.ca/sites/default/files/talk-attachments/SharadMalik-Fields2016.pdf).
