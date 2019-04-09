@@ -114,7 +114,7 @@ that make it as easy to exploit multicore parallelism
 as it is to write ordinary sequential programs.
 My work spans microarchitectures, compilers, and applications.
 I seek to redefine the roles of hardware and software,
-not only to make it easier to scale workloads where parallelization
+not only to make it easy to scale workloads where parallelization
 is expensive and error-prone today,
 but also to make it practical to scale workloads where
 today's systems cannot scale at all.
