@@ -11,4 +11,6 @@ hugo
 cd public
 git add .
 git commit -m "Generated from commit $GIT_VERSION"
-#git push
+git push
+cd ..
+git commit -m "[public] Update ref" public
