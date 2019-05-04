@@ -55,11 +55,11 @@ featured = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://people.csail.mit.edu/sanchez/papers/2018.espresso.micro.pdf"
+url_pdf = "papers/micro_2018_espresso.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
-#url_slides = "#"
+url_slides = "papers/micro_2018_espresso_slides.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"

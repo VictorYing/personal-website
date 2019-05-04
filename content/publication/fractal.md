@@ -56,11 +56,11 @@ featured = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://people.csail.mit.edu/sanchez/papers/2017.fractal.isca.pdf"
+url_pdf = "papers/isca_2017_fractal.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
-#url_slides = "#"
+url_slides = "papers/isca_2017_fractal_slides.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
