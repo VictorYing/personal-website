@@ -97,12 +97,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/victorying"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "http://people.csail.mit.edu/victory/cv.pdf"
+  link = "cv.pdf"
 
 +++
 
@@ -128,4 +126,4 @@ hardware systems at [NVIDIA Research](https://www.nvidia.com/en-us/research/),
 [Pure Storage](https://www.purestorage.com/),
 and [NIST](https://www.nist.gov/publications/tunable-supercontinuum-fiber-laser-source-brdf-measurements-starr-ii-gonioreflectometer).
 
-You can access my _curriculum vitae_ [here](http://people.csail.mit.edu/victory/cv.pdf).
+You can access my _curriculum vitae_ [here](/cv.pdf).
