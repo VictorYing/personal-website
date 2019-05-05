@@ -122,7 +122,7 @@ today's systems cannot scale at all.
 Before coming to MIT, I received my BSE in electrical engineering
 from [Princeton](https://engineering.princeton.edu/),
 where I worked with [Sharad Malik](http://www.princeton.edu/~sharad/)
-on [Boolean satisfiability solvers](http://www.fields.utoronto.ca/sites/default/files/talk-attachments/SharadMalik-Fields2016.pdf).
+on [Boolean satisfiability solvers](/talks/fields_2016_sat_efficiency.pdf).
 I have also done internships working on the design of
 hardware systems at [NVIDIA Research](https://www.nvidia.com/en-us/research/),
 [Pure Storage](https://www.purestorage.com/),
