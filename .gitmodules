@@ -1,7 +1,10 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = git@github.com:VictorYing/hugo-academic.git
+	branch = master
+	update = merge
 [submodule "public"]
 	path = public
 	url = git@github.com:VictorYing/VictorYing.github.io.git
 	branch = master
+	update = merge
