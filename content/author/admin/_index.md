@@ -110,9 +110,8 @@ My primary work is in [the Swarm project](https://www.csail.mit.edu/research/per
 which seeks to build new abstractions between hardware and software
 that make it as easy to exploit multicore parallelism
 as it is to write ordinary sequential programs.
-My work spans microarchitectures, compilers, and applications.
-I seek to redefine the roles of hardware and software,
-not only to make it easy to scale workloads where parallelization
+My work spans computer architecture, compilers, and applications.
+I seek not only to make it easy to scale workloads where parallelization
 is expensive and error-prone today,
 but also to make it practical to scale workloads that
 today's systems cannot scale at all.
