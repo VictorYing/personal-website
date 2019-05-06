@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-HOSTNAME="$(hostname -f)"
+HOSTNAME="$(hostname -A | cut -f 1 -d ' ')"
 ADDRESS="$(hostname -I | cut -f 1 -d ' ')"
 PORT="13131"
 
