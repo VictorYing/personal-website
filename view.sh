@@ -1,3 +1,12 @@
 #!/usr/bin/env bash
 
-hugo --i18n-warnings server
+HOSTNAME="$(hostname -f)"
+ADDRESS="$(hostname -I | cut -f 1 -d ' ')"
+PORT="13131"
+
+echo "Launching server at $HOSTNAME ($ADDRESS:$PORT)"
+
+hugo server \
+  --baseURL "http://$HOSTNAME:$PORT/" \
+  --bind "$ADDRESS" \
+  --port "$PORT"
