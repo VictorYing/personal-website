@@ -32,7 +32,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
   publication = "In *2019 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)*"
-publication_short = "In *ISPASS-2019*"
+publication_short = "In *ISPASS*"
 
 # Abstract.
 abstract = "This paper presents Timeloop, an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. This paper describes Timeloop's underlying models and algorithms in detail and shows results from case studies enabled by Timeloop, which provide interesting insights into the current state of DNN architecture design. In particular, they reveal that dataflow and memory hierarchy co-design plays a critical role in optimizing energy efficiency. Also, there is currently still not a single architecture that achieves the best performance and energy efficiency across a diverse set of workloads due to flexibility and efficiency trade-offs. These results provide inspiration into possible directions for DNN accelerator research."

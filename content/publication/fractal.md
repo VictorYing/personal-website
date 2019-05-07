@@ -29,7 +29,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
   publication = "In *44th International Symposium on Computer Architecture (ISCA)*"
-publication_short = "In *ISCA'17*"
+publication_short = "In *ISCA-44*"
 
 # Abstract.
 abstract = "Most systems that support speculative parallelization, like hardware transactional memory (HTM), do not support nested parallelism.  This sacrifices substantial parallelism and precludes composing parallel algorithms. And the few HTMs that do support nested parallelism focus on parallelizing at the coarsest (shallowest) levels, incurring large overheads that squander most of their potential.  We present Fractal, a new execution model that supports unordered and timestamp-ordered nested parallelism. Fractal lets programmers seamlessly compose speculative parallel algorithms, and lets the architecture exploit parallelism at all levels. Fractal can parallelize a broader range of applications than prior speculative execution models. We design a Fractal implementation that extends the Swarm architecture and focuses on parallelizing at the finest (deepest) levels. Our approach sidesteps the issues of nested parallel HTMs and uncovers abundant fine-grain parallelism. As a result, Fractal outperforms prior speculative architectures by up to 88× at 256 core."
