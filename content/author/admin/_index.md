@@ -104,7 +104,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I'm Victor. I'm a 3rd year SM/PhD student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
+Hi, I'm Victor. I'm a PhD student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
 My primary work is in [the Swarm project](https://www.csail.mit.edu/research/pervasive-parallelism-swarm-architecture),
 which seeks to build new abstractions between hardware and software
