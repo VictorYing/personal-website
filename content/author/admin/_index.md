@@ -87,10 +87,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "https://ieeexplore.ieee.org/author/37086319141"
 
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/gcushen"
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/VictorYing"
 
 [[social]]
   icon = "linkedin"
