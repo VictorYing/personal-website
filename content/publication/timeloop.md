@@ -5,16 +5,16 @@ draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
-"Angshuman Parashar",
-"Priyanka Raina",
-"Yakun Sophia Shao",
-"Yu-Hsin Chen",
-"admin",
-"Anurag Mukkara",
-"Rangharajan Venkatesan",
-"Brucek Khailany",
-"Stephen W. Keckler",
-"Joel Emer",
+"[Angshuman Parashar](https://www.parashar.org/)",
+"[Priyanka Raina](http://www.mit.edu/~praina/)",
+"[Yakun Sophia Shao](https://ysshao.github.io/)",
+"[Yu-Hsin Chen](https://research.nvidia.com/person/yuhsin-chen)",
+"[Victor A. Ying](/)",
+"[Anurag Mukkara](https://people.csail.mit.edu/anurag_m/)",
+"[Rangharajan Venkatesan](https://research.nvidia.com/person/rangharajan-venkatesan)",
+"[Brucek Khailany](https://research.nvidia.com/person/brucek-khailany)",
+"[Stephen W. Keckler](https://www.cs.utexas.edu/~skeckler/)",
+"[Joel Emer](https://people.csail.mit.edu/emer/)",
 ]
 
 # Publication type.
