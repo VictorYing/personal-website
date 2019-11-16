@@ -5,7 +5,7 @@ draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
-"[Mark C. Jeffrey](https://people.csail.mit.edu/mcj/)",
+"[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)",
 "[Victor A. Ying](/)",
 "[Suvinay Subramanian](http://people.csail.mit.edu/suvinay/)",
 "Hyun Ryong Lee",
