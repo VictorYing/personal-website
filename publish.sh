@@ -12,7 +12,7 @@ shopt -s extglob
 rm -rf !(.git|CNAME)
 cd ..
 
-hugo
+hugo --buildFuture
 
 cd public
 git add .
