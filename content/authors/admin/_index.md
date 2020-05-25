@@ -106,7 +106,7 @@ user_groups = ["Researchers", "Visitors"]
 
 Hi, I'm Victor. I'm a PhD student working with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
-My primary work is in [the Swarm project](https://www.csail.mit.edu/research/pervasive-parallelism-swarm-architecture),
+My primary work is in [the Swarm project](http://swarm.csail.mit.edu),
 which seeks to build new abstractions between hardware and software
 that make it as easy to exploit multicore parallelism
 as it is to write ordinary sequential programs.
