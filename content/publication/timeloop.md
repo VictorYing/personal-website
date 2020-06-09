@@ -60,7 +60,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "papers/ispass_2019_timeloop.pdf"
-#url_code = "#"
+url_code = "https://github.com/NVlabs/timeloop"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
