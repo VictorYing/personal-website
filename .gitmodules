@@ -8,3 +8,6 @@
 	url = git@github.com:VictorYing/VictorYing.github.io.git
 	branch = master
 	update = merge
+[submodule "academic-scripts"]
+	path = academic-scripts
+	url = git@github.com:sourcethemes/academic-scripts.git
