@@ -16,7 +16,7 @@ hugo --buildFuture
 
 cd public
 git add .
-git commit -m "Generated from commit $GIT_VERSION"
+git commit -m "Generated from commit $GIT_VERSION" -m "$(hugo version)"
 git push
 cd ..
 
