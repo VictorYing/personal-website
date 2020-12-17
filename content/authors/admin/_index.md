@@ -102,7 +102,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "cv.pdf"
+  link = "victorying_cv.pdf"
 
 +++
 
@@ -127,4 +127,4 @@ hardware systems at [NVIDIA Research](https://www.nvidia.com/en-us/research/),
 [Pure Storage](https://www.purestorage.com/),
 and [NIST](https://www.nist.gov/publications/tunable-supercontinuum-fiber-laser-source-brdf-measurements-starr-ii-gonioreflectometer).
 
-You can access my _curriculum vitae_ [here](/cv.pdf).
+You can access my _curriculum vitae_ [here](/victorying_cv.pdf).
