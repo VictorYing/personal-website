@@ -7,10 +7,10 @@ draft = false
 authors = [
 "[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)",
 "[Victor A. Ying](/)",
-"[Suvinay Subramanian](http://people.csail.mit.edu/suvinay/)",
+"[Suvinay Subramanian](https://people.csail.mit.edu/suvinay/)",
 "Hyun Ryong Lee",
 "[Joel Emer](https://people.csail.mit.edu/emer/)",
-"[Daniel Sanchez](http://people.csail.mit.edu/sanchez/)",
+"[Daniel Sanchez](https://people.csail.mit.edu/sanchez/)",
 ]
 
 # Publication type.

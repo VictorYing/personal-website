@@ -17,7 +17,7 @@ authors = [
 "[Michael B. Taylor](https://michaeltaylor.org/)",
 "[Julian Shun](https://people.csail.mit.edu/jshun/)",
 "[Mark Oskin](https://homes.cs.washington.edu/~oskin/)",
-"[Daniel Sanchez](http://people.csail.mit.edu/sanchez/)",
+"[Daniel Sanchez](https://people.csail.mit.edu/sanchez/)",
 "[Saman Amarasinghe](https://people.csail.mit.edu/saman/)",
 ]
 

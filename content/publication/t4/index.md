@@ -7,7 +7,7 @@ draft = false
 authors = [
 "[Victor A. Ying](/)",
 "[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)",
-"[Daniel Sanchez](http://people.csail.mit.edu/sanchez/)",
+"[Daniel Sanchez](https://people.csail.mit.edu/sanchez/)",
 ]
 
 # Publication type.
