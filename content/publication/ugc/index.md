@@ -66,7 +66,7 @@ optimization decisions like load balancing strategies, blocking
 for locality, and other data structure choices. We evaluate UGC
 on five algorithms and 10 input graphs on these 4 distinct architectures and show that UGC enables implementing optimizations
 that can provide up to 53× speedup over programmer-generated
-straightforward implementations"""
+straightforward implementations."""
 
 # Summary. An optional shortened abstract.
 summary = "The Unified GraphIt Compiler framework (UGC) compiles a domain-specific language for graph processing to novel architecturs such as Swarm.  The compiler is able to reuse code across architectures and can automatically unlock more parallelism than prior approaches by using Swarm's speculative execution to avoid synchronization overheads."
