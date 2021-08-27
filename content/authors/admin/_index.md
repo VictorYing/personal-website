@@ -122,8 +122,10 @@ Before coming to MIT, I received my BSE in electrical engineering
 from [Princeton](https://engineering.princeton.edu/),
 where I worked with [Sharad Malik](http://www.princeton.edu/~sharad/)
 on [Boolean satisfiability solvers](/talks/fields_2016_sat_efficiency.pdf).
-I have also done internships working on the design of
-hardware systems at [NVIDIA Research](https://www.nvidia.com/en-us/research/),
+I have also done internships working on
+optimizing the performance of hardware and software systems
+at [MSR](https://www.microsoft.com/en-us/research/),
+[NVIDIA Research](https://www.nvidia.com/en-us/research/),
 [Pure Storage](https://www.purestorage.com/),
 and [NIST](https://www.nist.gov/publications/tunable-supercontinuum-fiber-laser-source-brdf-measurements-starr-ii-gonioreflectometer).
 
