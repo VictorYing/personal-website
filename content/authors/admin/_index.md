@@ -85,7 +85,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "ieee"
   icon_pack = "ai"
-  link = "https://ieeexplore.ieee.org/author/37086319141"
+  link = "https://ieeexplore.ieee.org/author/37088926212"
 #  link = "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=(%22Authors%22:Victor%20A.%20Ying)"
 #  link = "https://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22First%20Name%22:%22Victor%20A.%22&searchWithin=%22Last%20Name%22:%22Ying%22"
 
