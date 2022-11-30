@@ -106,17 +106,19 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I'm Victor. I'm a PhD student working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
+Hi, I'm Victor. I'm a final-year PhD student working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
 My primary work is in [the Swarm project](http://swarm.csail.mit.edu),
 which seeks to build new abstractions between hardware and software
 that make it as easy to exploit multicore parallelism
 as it is to write ordinary sequential programs.
-My work spans computer architecture, compilers, and applications.
-I seek not only to make it easy to scale workloads where parallelization
-is expensive and error-prone today,
-but also to make it practical to scale workloads that
-today's systems cannot scale at all.
+I build compilers and architecture simulators
+to explore how to make parallel computation efficient
+by targeting communication costs and effectively utilizing highly parallel hardware.
+I write a lot of C++, and frequently look at profiling and (dis)assembly
+while automating the process of software performance optimization.
+
+**I am seeking a full-time industry job in 2023.**
 
 Before coming to MIT, I received my BSE in electrical engineering
 from [Princeton](https://engineering.princeton.edu/),
