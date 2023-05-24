@@ -106,21 +106,20 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I'm Victor. I'm a final-year PhD student working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
+Hi, I'm Victor.
+I build computer architecture simulators and compilers
+to explore how to make computation efficient.
+I write a lot of C++, and frequently look at profiling and (dis)assembly.
+I'm starting a job at [Tenstorrent](https://tenstorrent.com/) in July 2023.
+
+I'm finishing my PhD working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
-My primary work is in [the Swarm project](http://swarm.csail.mit.edu),
+My PhD work is in [the Swarm project](http://swarm.csail.mit.edu),
 which seeks to build new abstractions between hardware and software
 that make it as easy to exploit multicore parallelism
 as it is to write ordinary sequential programs.
-I build compilers and architecture simulators
-to explore how to make parallel computation efficient
-by targeting communication costs and effectively utilizing highly parallel hardware.
-I write a lot of C++, and frequently look at profiling and (dis)assembly
-while automating the process of software performance optimization.
 
-**I am seeking a full-time industry job in 2023.**
-
-Before coming to MIT, I received my BSE in electrical engineering
+Before I was at MIT, I received my BSE in electrical engineering
 from [Princeton](https://engineering.princeton.edu/),
 where I worked with [Sharad Malik](http://www.princeton.edu/~sharad/)
 on [Boolean satisfiability solvers](/talks/fields_2016_sat_efficiency.pdf).
