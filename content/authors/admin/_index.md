@@ -112,7 +112,7 @@ to explore how to make computation fast.
 I write a lot of C++, and frequently look at profiling and (dis)assembly.
 I'm starting a job at [Tenstorrent](https://tenstorrent.com/) in July 2023.
 
-I'm finishing my PhD working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
+I'm currently finishing my PhD working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
 My PhD work is in [the Swarm project](http://swarm.csail.mit.edu),
 which seeks to build new abstractions between hardware and software
