@@ -108,7 +108,7 @@ user_groups = ["Researchers", "Visitors"]
 
 Hi, I'm Victor.
 I build computer architecture simulators and compilers
-to explore how to make computation efficient.
+to explore how to make computation fast.
 I write a lot of C++, and frequently look at profiling and (dis)assembly.
 I'm starting a job at [Tenstorrent](https://tenstorrent.com/) in July 2023.
 
