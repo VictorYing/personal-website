@@ -112,7 +112,7 @@ to explore how to make computation fast.
 I write a lot of C++, and frequently look at profiling and (dis)assembly.
 In July 2023, I'm moving to [Tenstorrent](https://tenstorrent.com/) to work on high-performance RISC-V processors.
 
-I'm currently finishing my PhD working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
+I spent the last several years doing a PhD with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
 My PhD work is in [the Swarm project](http://swarm.csail.mit.edu),
 which seeks to build new abstractions between hardware and software
@@ -125,7 +125,7 @@ where I worked with [Sharad Malik](http://www.princeton.edu/~sharad/)
 on [Boolean satisfiability solvers](/talks/fields_2016_sat_efficiency.pdf).
 I have also done internships working on
 optimizing the performance of hardware and software systems
-at [MSR](https://www.microsoft.com/en-us/research/),
+at [Microsoft Research](https://www.microsoft.com/en-us/research/),
 [NVIDIA Research](https://www.nvidia.com/en-us/research/),
 [Pure Storage](https://www.purestorage.com/),
 and [NIST](https://www.nist.gov/publications/tunable-supercontinuum-fiber-laser-source-brdf-measurements-starr-ii-gonioreflectometer).
