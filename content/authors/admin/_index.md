@@ -110,7 +110,7 @@ Hi, I'm Victor.
 I build computer architecture simulators and compilers
 to explore how to make computation fast.
 I write a lot of C++, and frequently look at profiling and (dis)assembly.
-I'm starting a job at [Tenstorrent](https://tenstorrent.com/) in July 2023.
+In July 2023, I'm moving to [Tenstorrent](https://tenstorrent.com/) to work on high-performance RISC-V processors.
 
 I'm currently finishing my PhD working with [Daniel Sanchez](https://people.csail.mit.edu/sanchez/)
 at [MIT CSAIL](https://www.csail.mit.edu/).
